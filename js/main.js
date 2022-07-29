@@ -24,6 +24,6 @@ Btn.addEventListener('click', function (){
         WarningIcon.classList.remove("none")
         Warning.classList.remove("none")
         Email.focus()
-        Email.style.outlineColor ="hsl(0, 93%, 68%)"
+        Email.style.outlineColor ="hsl(0, 100%, 50%)"
     }
 })

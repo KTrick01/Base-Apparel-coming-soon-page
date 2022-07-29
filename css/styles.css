@@ -130,7 +130,7 @@ body {
     font-family: 'Josefin Sans', sans-serif;
 }
 .base-apparel__email:focus {
-    outline: 2px solid var(--Soft-Red);
+    outline: 2px solid hsl(0, 72%, 80%);
     
 }
 .email-buttonContainer {
